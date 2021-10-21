@@ -1,6 +1,6 @@
 {
   "name": "@jsenv/dynamic-import-worker",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "private": true,
   "description": "Bypass node cache on dynamic import thanks to worker",
   "license": "MIT",
