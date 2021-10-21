@@ -6,7 +6,7 @@ const measures = startMeasures({
 })
 
 // eslint-disable-next-line no-unused-vars
-let namespace = await import("@jsenv/node-import-no-cache")
+let namespace = await import("@jsenv/dynamic-import-worker")
 
 const { duration, heapUsed } = measures.stop()
 
